@@ -1,0 +1,17 @@
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\bin\Debug\net8.0\to-do.exe
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\bin\Debug\net8.0\to-do.deps.json
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\bin\Debug\net8.0\to-do.runtimeconfig.json
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\bin\Debug\net8.0\to-do.dll
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\bin\Debug\net8.0\to-do.pdb
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.csproj.AssemblyReference.cache
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.AssemblyInfoInputs.cache
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.AssemblyInfo.cs
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.csproj.CoreCompileInputs.cache
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.csproj.Up2Date
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.dll
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\refint\to-do.dll
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.pdb
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\to-do.genruntimeconfig.cache
+C:\Users\Moses\Desktop\Coding\Projects\to-do-list\to-do\to-do\obj\Debug\net8.0\ref\to-do.dll

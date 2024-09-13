@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJ+v8dud0gE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moses\\Desktop\\Coding\\Projects\\to-do-list\\to-do\\to-do\\to-do.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moses\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
